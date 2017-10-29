@@ -1,0 +1,31 @@
+
+
+Sınıf | Öğrenci İsmi  | Numara
+-------|----------------|--------
+9-E   | Yağmur Eyna Terzi | 621
+9-E   | Göksu Arslan | 620
+9-E   | Bengisu Betül Dönmez | 575
+
+
+## Fortune Teller-1991
+**Soru:**
+> Su dolu kaba erimiş parafin mumundan düşecek olan bir damlayla katılaşmış, düzensiz şekiller elde edilir (mercek, bot, mürekkep lekesi gibi). Düşen damlaların yüksekliğine bağlı olarak oluşan şekillerini inceleyiniz.
+
+
+----------
+
+**Özet:**`
+
+> Erimiş mum soğuk bir suya damlatıldığında mantar, elipsoid, disk gibi farklı şekiller oluşabilir. Bu şekillerin oluşmasında birçok farklı etken rol oynar. Mum damlatılan suyun sıcaklığı, yoğunluğu, erimiş mum damlasının büyüklüğü, akışkanlık hızı, damlatılan mesafe ile damlanın havada kalış süresi, erimiş mum damlası ile su arasında oluşan yüzey gerilimi bu etkenlerden bazılarıdır. Dolayısıyla belli bir yükseklikten, suyun içerisine erimiş mum damlatıldığında ne çeşit şekillerin ortaya çıkabileceğini ve bu şekillerin ne gibi değişkenlere bağlı olduğunu araştırmak bu projenin temel amacıdır. Farklı şekillerin ortaya çıkmasını etkileyen faktörlerin araştırılıp denenerek ortaya çıkan şekilleri incelemek ve bu deneyleri sonuçlarıyla beraber kaydedip analiz etmek bu projede deneme-yanılma yolu ile deneysel yöntem kullanıldığını gösterir. Bu yöntemler sayesinde suya düşürülen mum damlalarının yüksekliğine bağlı olarak oluşan şekilleri incelemiş oluruz.
+
+
+----------
+
+
+**Kaynakça**
+
+ - https://www.sciencedaily.com/releases/2015/02/150212131525.htm
+ - https://spmoodle23.aisgz.org/pluginfile.php/51947/mod_folder/content/0/Exemplar%201%20OLD%20.pdf?forcedownload=1
+ - http://www.sciencedirect.com/science/article/pii/S0021979714010595
+ - https://www.researchgate.net/publication/271388735_Getting_in_shape_Molten_wax_drop_deformation_and_solidification_at_an_immiscible_liquid_interface
+ - https://link.springer.com/article/10.1023/A:1004680315199
